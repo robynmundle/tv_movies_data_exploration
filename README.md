@@ -1,4 +1,4 @@
-# tv_movies_data_exploration
+# TV and Movie Data Exploration (Medium Article)
 Exploratory Data Analysis of two Kaggle datasets for TV Shows (1) and Movies (2) compared between Netflix, Hulu, Prime Video and Disney+ streaming platforms. The information collected from this notebook was implemented in a RnR (Research and Reflect) paper generated for Medium.com.
 
 # Introduction
